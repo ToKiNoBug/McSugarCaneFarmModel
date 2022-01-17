@@ -1,5 +1,5 @@
-gtNum=uint32(10000);
-gtInterval=uint32(20);
+gtNum=uint32(100000);
+gtInterval=uint32(1200);
 recordNum=gtNum/gtInterval;
 
 record=zeros(48,recordNum);
